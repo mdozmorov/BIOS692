@@ -60,9 +60,9 @@ None. Instead, a list of relevant reading will be provided.
 
 Students are expected to attend every class and be on time.  Participation counts toward the final grade.
 
-| Date                 | Topic                           | Description                                                                                                          |
-|----------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Seminar 1, 6/13/2016 | Steps in reproducible research  | Lab notebook. Best practices of data and code organization.                                                          |
-| Seminar 2, 6/14/2016 | Automating everything           | Makefiles. R functions. R studio project management.                                                                 |
-| Seminar 3, 6/15/2016 | Generating reproducible reports | Markdown, literate programming with knitr, graphics in R                                                             |
-| Seminar 4, 6/16/2016 | Sharing and collaboration       | Version control/track changes with Git. Collaborative coding on GitHub. Figshare, Dataverse, Open Science Foundation |
+| Date                 | Topic                                            | Description                                                                                                          |
+|----------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Seminar 1, 6/13/2016 | Steps in reproducible research                   | Lab notebook. Best practices of data and code organization.                                                          |
+| Seminar 2, 6/14/2016 | Automating everything                            | Makefiles. R functions. R studio project management.                                                                 |
+| Seminar 3, 6/15/2016 | Generating reproducible reports                  | Markdown, literate programming with knitr, graphics in R                                                             |
+| Seminar 4, 6/16/2016 | Version control, sharing and collaboration       | Version control/track changes with Git. Collaborative coding on GitHub. Figshare, Dataverse, Open Science Foundation |
