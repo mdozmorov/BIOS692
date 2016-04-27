@@ -29,6 +29,8 @@ This course on GitHub [https://github.com/mdozmorov/BIOS692](https://github.com/
 
 - Electronic lab notebook [https://kbroman.wordpress.com/2013/08/20/electronic-lab-notebook/](https://kbroman.wordpress.com/2013/08/20/electronic-lab-notebook/)
 
+- Anti-patterns, Clean Code and Beyond [http://www.cbs.dtu.dk/courses/27610/clean_code_index.html](http://www.cbs.dtu.dk/courses/27610/clean_code_index.html)
+
 ### Automating everything
 
 - Make [http://davetang.org/muse/2015/05/31/learning-about-makefiles/](http://davetang.org/muse/2015/05/31/learning-about-makefiles/), [http://davetang.org/wiki2/index.php?title=Makefile](http://davetang.org/wiki2/index.php?title=Makefile), [http://kbroman.org/minimal_make/](http://kbroman.org/minimal_make/)
