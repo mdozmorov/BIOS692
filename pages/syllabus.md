@@ -34,13 +34,17 @@ After successful completion of this course, students will be able to:
 
 ## Prerequisites
 
-- Basic knowledge of Linux operating system and R programming language. 
-- A laptop (Mac or Linux OSs are recommended) with the following software installed:
-		- [R](https://www.r-project.org/)
-		- [Rstudio](https://www.rstudio.com/)
-		- [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (Windows only)
-		- [Git](https://git-scm.com/downloads)
-		- a text editor ([Notepad++](https://notepad-plus-plus.org/) on Windows, or [Sublime text](https://www.sublimetext.com/) recommended)
+- A laptop, Mac or Linux OSs are recommended
+- Pre-installed software:
+
+	- Windows only: [Git Bash](https://git-for-windows.github.io/ 
+	) or [Cygwin](http://www.cygwin.com/
+	)
+	- [R](https://www.r-project.org/)
+	- [Rstudio](https://www.rstudio.com/)
+	- Windows only: [Rtools](https://cran.r-project.org/bin/windows/Rtools/)
+	- [Git](https://git-scm.com/downloads)
+	- a text editor ([Notepad++](https://notepad-plus-plus.org/) on Windows, or [Sublime text](https://www.sublimetext.com/) on any platform)
 
 ### Who should take this class?
 
@@ -50,7 +54,7 @@ Both undergraduates and graduate students are welcome to take the course.
 
 This course will rely mainly on in-class participation, followed by assigned reading and practices with the software tools.
 
-There will be four connected modules, each focusing on an important area of computational reproducible research. Each module will be presented in a traditional seminar format combined with practical tasks.  The students will learn about reproducible research actively — by doing it. 
+There will be four connected modules, each focusing on an important area of computational reproducible research. Each module will be presented in a traditional seminar format combined with real life demo of practical tasks.  The students will learn about reproducible research actively — by doing it. 
 
 ## Required Textbook
 
