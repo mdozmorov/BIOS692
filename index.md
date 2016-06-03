@@ -105,6 +105,8 @@ I thank [Karl Broman](http://kbroman.org/), [Greg Wilson](http://sensibleadventu
 
 ### Data manipulation and visualization in R
 
+[Data Manipulation Using R (& dplyr)](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014)
+
 [Data Manipulation with dplyr](http://datascienceplus.com/data-manipulation-with-dplyr/)
 
 ["Aggregating and analyzing data with dplyr" by Data Carpentry](http://www.datacarpentry.org/R-genomics/04-dplyr.html)
