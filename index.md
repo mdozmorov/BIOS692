@@ -101,6 +101,8 @@ I thank [Karl Broman](http://kbroman.org/), [Greg Wilson](http://sensibleadventu
 
 ["R Markdown" by Karl](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
 
+["A quick introduction to R/markdown" presentation by Peter Ralph](http://petrelharp.github.io/r-markdown-tutorial/using-rmarkdown.slides.html), and [some R Markdown gotchas (advanced)](https://petrelharp.github.io/r-markdown-tutorial/gotchas.html)
+
 [R Markdown guides from Rstudio](https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R)
 
 ### Data manipulation and visualization in R
