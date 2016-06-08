@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reproducible research tools course BIOS 692
-tagline: Reproducible research tools course BIOS 692
+# tagline: Reproducible research tools course BIOS 692
 description: Reproducible research tools course BIOS 692
 ---
 
