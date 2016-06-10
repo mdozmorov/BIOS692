@@ -28,6 +28,10 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ### Linux/bash basics
 
+[Explain any shell command](http://explainshell.com/)
+
+[Unix/Linux command reference sheet (pdf)](https://files.fosswire.com/2007/08/fwunixref.pdf), and [another *nix reference sheet (pdf)](https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf)
+
 [Survival guide for Unix newbies](http://matt.might.net/articles/basic-unix/)
 
 [Settling into Unix](http://matt.might.net/articles/settling-into-unix/)
@@ -41,6 +45,12 @@ title: References, "Reproducible research tools" course, BIOS 692
 ### Text manipulation with grep, awk, sed, vim
 
 [Tutorial to sed by Bruce Barnett](http://www.grymoire.com/Unix/Sed.html)
+
+[Vim introduction and tutorial](https://blog.interlinked.org/tutorials/vim_tutorial.html)
+
+[Interactive Vim tutorial](http://www.openvim.com/)
+
+[Vim reference card (pdf)](http://web.mit.edu/merolish/Public/vi-ref.pdf)
 
 ## Automating everything
 
