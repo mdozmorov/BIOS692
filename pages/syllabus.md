@@ -70,30 +70,30 @@ Students are expected to attend every class and be on time.  Participation count
 
 Date: 6/13/2016
 
-1. Overview 
-2. Linux/bash basics 
-3. Text manipulation with grep, awk, sed, vim
+1. Overview <a href="references.html#overview">References</a>
+2. Linux/bash basics <a href="references.html#linux">References</a>
+3. Text manipulation with grep, awk, sed, vim <a href="references.html#text">References</a>
 
 ### Automating everything
 
 Date: 6/14/2016
 
-1. Best practices of data/code organization 
-2. Make/Makefiles 
-3. RStudio, R functions & packages
+1. Best practices of data/code organization <a href="references.html#code">References</a>
+2. Make/Makefiles <a href="references.html#make">References</a>
+3. RStudio, R functions & packages <a href="references.html#rfunctions">References</a>
 
 ### Reproducible reports
 
 Date: 6/15/2016
 
-1. Literate programming with Markdown/KnitR
-2. Data manipulation and visualization in R 
-3. Presentations and web publishing
+1. Literate programming with Markdown/KnitR <a href="references.html#knitr">References</a>
+2. Data manipulation and visualization in R <a href="references.html#data">References</a>
+3. Presentations and web publishing <a href="references.html#publishing">References</a>
 
 ### Version control, sharing and collaboration
 
 Date: 6/16/2016
 
-1. Git/GitHub 
-2. Licenses 
-3. Data/code sharing repositories                                                          |
+1. Git/GitHub <a href="references.html#git">References</a>
+2. Licenses <a href="references.html#licenses">References</a>
+3. Data/code sharing repositories <a href="references.html#sharing">References</a>
