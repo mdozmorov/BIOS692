@@ -64,9 +64,36 @@ None. Instead, a list of relevant reading will be provided.
 
 Students are expected to attend every class and be on time.  Participation counts toward the final grade.
 
-| Date                 | Topic                                            | Description                                                                                                          |
-|----------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| 6/13/2016            | Steps in reproducible research                   | 1) Overview 2) Linux/bash basics 3) Text manipulation with grep, awk, sed, vim                                       |
-| 6/14/2016            | Automating everything                            | 1) Best practices of data/code organization 2) Make/Makefiles 3) RStudio, R functions & packages                     |
-| 6/15/2016            | Reproducible reports                             | 1) Literate programming with Markdown/KnitR 2) Data manipulation and visualization in R 3) Presentations and web publishing  |
-| 6/16/2016            | Version control, sharing and collaboration       | 1) Git/GitHub 2) Licenses 3) Data/code sharing repositories                                                          |
+# Topics
+
+### Steps in reproducible research
+
+Date: 6/13/2016
+
+1. Overview 
+2. Linux/bash basics 
+3. Text manipulation with grep, awk, sed, vim
+
+### Automating everything
+
+Date: 6/14/2016
+
+1. Best practices of data/code organization 
+2. Make/Makefiles 
+3. RStudio, R functions & packages
+
+### Reproducible reports
+
+Date: 6/15/2016
+
+1. Literate programming with Markdown/KnitR
+2. Data manipulation and visualization in R 
+3. Presentations and web publishing
+
+### Version control, sharing and collaboration
+
+Date: 6/16/2016
+
+1. Git/GitHub 
+2. Licenses 
+3. Data/code sharing repositories                                                          |
