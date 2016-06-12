@@ -17,5 +17,5 @@ June 13, 14, 15 and 16 Monday – Thursday 9:00 – 10:50 a.m. OCS, rm. 5009
 
 This course on GitHub [https://github.com/mdozmorov/BIOS692](https://github.com/mdozmorov/BIOS692)
 
-I thank [Karl Broman](http://kbroman.org/), [Greg Wilson](http://sensibleadventures.com/) and [Software Carpentry](http://software-carpentry.org/), folks from [RStudio](https://www.rstudio.com/about/), and many others for providing material, tools and inspiration for creating this course
+I thank [Karl Broman](http://kbroman.org/), [Greg Wilson](http://sensibleadventures.com/) and [Software Carpentry](http://software-carpentry.org/), folks from [RStudio](https://www.rstudio.com/about/), and many others for sharing material, tools and inspiration for creating this course
 
