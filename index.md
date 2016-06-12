@@ -11,7 +11,7 @@ BIOS 692-802 (1 cr.) (36610)
 
 June 13, 14, 15 and 16 Monday – Thursday 9:00 – 10:50 a.m. OCS, rm. 5009
 
-[Syllabus](pages/syllabus.html)
+[Syllabus and slides](pages/syllabus.html)
 
 [References and Recommended reading](pages/references.html)
 

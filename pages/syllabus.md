@@ -70,9 +70,9 @@ Students are expected to attend every class and be on time.  Participation count
 
 Date: 6/13/2016
 
-1. Overview <a href="references.html#overview">References</a>
-2. Linux/bash basics <a href="references.html#linux">References</a>
-3. Text manipulation with grep, awk, sed, vim <a href="references.html#text">References</a>
+1. Overview [Slides](/assets/1_Steps_overview.pdf), <a href="references.html#overview">References</a>
+2. Linux/bash basics [Slides](/assets/1_Steps_Linux.pdf), <a href="references.html#linux">References</a>
+3. Text manipulation with grep, awk, sed, vim [Slides](/assets/1_Steps_text.pdf), <a href="references.html#text">References</a>
 
 ### Automating everything
 
