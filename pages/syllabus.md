@@ -80,9 +80,11 @@ Example file: [chromInfo.txt.gz (0.8kb)](http://hgdownload.cse.ucsc.edu/goldenpa
 
 Date: 6/14/2016
 
-1. Best practices of data/code organization <a href="references.html#code">References</a>
-2. Make/Makefiles <a href="references.html#make">References</a>
-3. RStudio, R functions & packages <a href="references.html#rfunctions">References</a>
+1. Best practices of data/code organization [Slides](2_Automating_best_practices.pdf) <a href="references.html#code">References</a>
+2. Make/Makefiles [Slides](2_Automating_make.pdf) <a href="references.html#make">References</a>
+3. RStudio, R functions & packages [Slides](2_Automating_R_packages.pdf) <a href="references.html#rfunctions">References</a>
+
+Example makefile: [Makefile](Makefile)
 
 ### Reproducible reports
 
