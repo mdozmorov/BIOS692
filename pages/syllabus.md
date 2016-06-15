@@ -90,9 +90,11 @@ Example makefile: [Makefile](Makefile)
 
 Date: 6/15/2016
 
-1. Literate programming with Markdown/KnitR <a href="references.html#knitr">References</a>
-2. Data manipulation and visualization in R <a href="references.html#data">References</a>
-3. Presentations and web publishing <a href="references.html#publishing">References</a>
+1. Literate programming with Markdown/KnitR [Slides](3_Reports_Markdown_knitr.pdf) <a href="references.html#knitr">References</a>
+2. Data manipulation and visualization in R [Slides](3_Reports_graphics.pdf) <a href="references.html#data">References</a>
+3. Presentations and web publishing [Slides](3_Reports_presentations.pdf) <a href="references.html#publishing">References</a>
+
+Example heatmap: [heatmap.R](heatmap.R), dplyr and ggplot2 example: [dplyr_ggplot2.R](dplyr_ggplot2.R), R presentation example: [R_presentation.Rpres](R_presentation.Rpres), and Beamer presentation outline: [Beamer_presentation.Rmd](Beamer_presentation.Rmd)
 
 ### Version control, sharing and collaboration
 
