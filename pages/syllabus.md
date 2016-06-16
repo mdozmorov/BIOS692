@@ -100,6 +100,6 @@ Example heatmap: [heatmap.R](heatmap.R), dplyr and ggplot2 example: [dplyr_ggplo
 
 Date: 6/16/2016
 
-1. Git/GitHub <a href="references.html#git">References</a>
-2. Licenses <a href="references.html#licenses">References</a>
-3. Data/code sharing repositories <a href="references.html#sharing">References</a>
+1. Git/GitHub [Slides](4_Version_control_Git.pdf) <a href="references.html#git">References</a>
+2. Licenses [Slides](4_Version_control_Licensing.pdf) <a href="references.html#licenses">References</a>
+3. Data/code sharing repositories [Slides](4_Version_control_Sharing.pdf) <a href="references.html#sharing">References</a>
