@@ -112,6 +112,10 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ["Data visualization in R" by Data Carpentry](http://www.datacarpentry.org/R-genomics/05-data-visualization.html)
 
+["ggplot2 tutorial/slides/code examples/references" by Jenny Bryan](https://github.com/jennybc/ggplot2-tutorial)
+
+["R Graph Catalog"](http://shiny.stat.ubc.ca/r-graph-catalog/) - visuals and code examples of graphs made with ggplot2
+
 ### Reproducible presentation and web-publishing {#publishing}
 
 [Easy web publishing from R on Rpubs.com](http://rpubs.com/)
