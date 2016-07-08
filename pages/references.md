@@ -18,6 +18,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [Linux basics](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics) and [R basics](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual) manuals by [Thomas Girke](http://girke.bioinformatics.ucr.edu/)
 
+[Biomedical Data Science Workshops](http://bioconnector.org/workshops/index.html) by [Stephen Turner](https://github.com/stephenturner/). From R basics through data manipulation with dplyr, visualization with ggplot2, reproducible research with knitr.
+
 ## Steps in reproducible research
 
 ### Overview {#overview}
