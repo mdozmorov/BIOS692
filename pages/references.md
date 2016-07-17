@@ -20,6 +20,10 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [Biomedical Data Science Workshops](http://bioconnector.org/workshops/index.html) by [Stephen Turner](https://github.com/stephenturner/). From R basics through data manipulation with dplyr, visualization with ggplot2, reproducible research with knitr.
 
+[Video: "How to Speak"](https://vimeo.com/101543862) - Lecture Tips from [Patrick Winston](https://people.csail.mit.edu/phw/)
+
+[Video: "How to Write a Great Research Paper"](https://www.youtube.com/watch?v=g3dkRsTqdDA) by Professor Simon Peyton Jones, Microsoft Research
+
 ## Steps in reproducible research
 
 ### Overview {#overview}
