@@ -122,6 +122,9 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ["R Graph Catalog"](http://shiny.stat.ubc.ca/r-graph-catalog/) - visuals and code examples of graphs made with ggplot2
 
+[R Seminar: Introduction to ggplot2](http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm) - comprehensive introduction and into ggplot2, from UCLA
+
+
 ### Reproducible presentation and web-publishing {#publishing}
 
 [Easy web publishing from R on Rpubs.com](http://rpubs.com/)
