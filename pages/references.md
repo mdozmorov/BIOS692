@@ -155,7 +155,7 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [GitHub training videos](https://www.youtube.com/user/GitHubGuides/videos)
 
-[Book "Version Control by Example" by Eric Sink](http://ericsink.com/vcbe/)
+Book ["Version Control by Example"](http://ericsink.com/vcbe/) by Eric Sink, and another one, ["Happy Git and GitHub for the useR"](http://happygitwithr.com/) by Jenny Bryan
 
 ### Licenses {#licenses}
 
