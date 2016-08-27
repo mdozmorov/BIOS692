@@ -66,6 +66,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [Organize your project](http://kbroman.org/steps2rr/pages/organize.html)
 
+[http://kbroman.org/dataorg/](http://kbroman.org/dataorg/) - Organizing data in spreadsheets
+
 [Anti-patterns, Clean Code and Beyond](http://www.cbs.dtu.dk/courses/27610/clean_code_index.html)
 
 [Ten Simple Rules for Robustifying Your Software](https://github.com/oicr-gsi/robust-paper)
