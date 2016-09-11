@@ -112,7 +112,7 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ### Data manipulation and visualization in R {#data}
 
-[http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) - Data Manipulation Using R (& dplyr)
+[http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) - Data Manipulation Using R (& dplyr). PDF slides available at [https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf](https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf)
 
 [http://datascienceplus.com/data-manipulation-with-dplyr/](http://datascienceplus.com/data-manipulation-with-dplyr/) - Data Manipulation with dplyr
 
