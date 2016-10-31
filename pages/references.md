@@ -6,6 +6,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ## General
 
+[https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - A collection of links to learning resources about Unix, shell best practices, R and python tools for genomics
+
 [http://kbroman.org/Tools4RR/](http://kbroman.org/Tools4RR/) - "Tools for Reproducible Research" course by Karl Broman
 
 [http://kbroman.org/steps2rr/pages/resources.html](http://kbroman.org/steps2rr/pages/resources.html) - Resources, "Steps towards reproducible research" 
