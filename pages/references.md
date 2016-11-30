@@ -84,6 +84,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [http://davetang.org/muse/2015/05/31/learning-about-makefiles/](http://davetang.org/muse/2015/05/31/learning-about-makefiles/) - "Learning about Makefiles" by Dave Tang
 
+[https://swcarpentry.github.io/make-novice/](https://swcarpentry.github.io/make-novice/) - Automation and Make by SoftwareCarpentry
+
 ### RStudio, R functions & packages {#rfunctions}
 
 [http://kbroman.org/steps2rr/pages/functions.html](http://kbroman.org/steps2rr/pages/functions.html) - Repeated code into functions
