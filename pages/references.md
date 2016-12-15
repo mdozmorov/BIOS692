@@ -26,6 +26,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [https://vimeo.com/101543862](https://vimeo.com/101543862) - Video: "How to Speak”, lecture tips from  [Patrick Winston](https://people.csail.mit.edu/phw/)
 
+[https://github.com/jtleek/talkguide](https://github.com/jtleek/talkguide) - "Guide to give talks" by Jeff Leek
+
 [https://www.youtube.com/watch?v=g3dkRsTqdDA](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Video: "How to Write a Great Research Paper" by Professor Simon Peyton Jones, Microsoft Research
 
 ## Steps in reproducible research
