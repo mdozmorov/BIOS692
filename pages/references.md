@@ -36,7 +36,12 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [http://www.nature.com/collections/qghhqm](http://www.nature.com/collections/qghhqm) - "Statistics for biologists" one-pagers about methods and reproducibility
 
-[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) - Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, and Eivind Hovig. “Ten Simple Rules for Reproducible Computational Research.” PLoS Computational Biology 2013
+- Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, and Eivind Hovig. “Ten Simple Rules for Reproducible Computational Research.” PLoS Computational Biology 2013. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) 
+
+- List, Markus, Peter Ebert, and Felipe Albrecht. “Ten Simple Rules for Developing Usable Software in Computational Biology.” PLoS Computational Biology 2017. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
+
+- Millman, K Jarrod, and Fernando Pérez. “Developing Open-Source Scientific Practice.” Implementing Reproducible Research. 2014. [http://www.jarrodmillman.com/oss-chapter.html](http://www.jarrodmillman.com/oss-chapter.html). A thorough and practical account of all steps in computational reproducible research.
+
 
 ### Linux/bash basics {#linux}
 
@@ -70,7 +75,7 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [http://kbroman.org/steps2rr/pages/organize.html](http://kbroman.org/steps2rr/pages/organize.html) - Tips for organizing projects from Karl Broman
 
-[http://kbroman.org/dataorg/](http://kbroman.org/dataorg/) - Organizing data in spreadsheets
+[http://kbroman.org/dataorg/](http://kbroman.org/dataorg/) - Organizing data in spreadsheets tutorial. Or, read the paper [https://github.com/kbroman/Paper_DataOrg](https://github.com/kbroman/Paper_DataOrg)
 
 [http://www.cbs.dtu.dk/courses/27610/clean_code_index.html](http://www.cbs.dtu.dk/courses/27610/clean_code_index.html) - Clean Code, best practices for function names, patterns and anti-patterns, and more on good programming practices
 
