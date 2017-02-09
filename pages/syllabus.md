@@ -52,7 +52,7 @@ After successful completion of this course, students will be able to:
 
 ### Who should take this class?
 
-Both undergraduates and graduate students are welcome to take the course. Auditing is possible contingent on class capacity.
+Both undergraduates and graduate students are welcome to take the course. Auditing is possible contingent on class capacity and by contacting the instructor.
 
 ## Class format
 
