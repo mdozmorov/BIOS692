@@ -9,7 +9,7 @@ Web pages for the BIOS 692 summer course offered by [Mikhail Dozmorov](https://m
 
 BIOS 692-802 (1 cr.) (36610)
 
-June 13, 14, 15 and 16 Monday – Thursday 9:00 – 10:50 a.m. OCS, rm. 5009
+Monday – Thursday, June 5 - 8, 9:00 – 10:50am,  One Capitol Square, room 5009, 830 East Main Street, RVA
 
 [Syllabus and slides](pages/syllabus.html)
 
