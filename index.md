@@ -17,5 +17,6 @@ Monday – Thursday, June 5 - 8, 9:00 – 10:50am,  One Capitol Square, room 500
 
 This course on GitHub [https://github.com/mdozmorov/BIOS692](https://github.com/mdozmorov/BIOS692)
 
-I thank [Karl Broman](http://kbroman.org/), [Greg Wilson](http://sensibleadventures.com/) and [Software Carpentry](http://software-carpentry.org/), folks from [RStudio](https://www.rstudio.com/about/), and many others for sharing material, tools and inspiration for creating this course
+[Acknowledgements](pages/acknowledgements.html)
+
 
