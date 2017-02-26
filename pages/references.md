@@ -45,19 +45,21 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ### Linux/bash basics {#linux}
 
-[http://explainshell.com/](http://explainshell.com/) - Explain any shell command
+- [http://explainshell.com/](http://explainshell.com/) - Explain any shell command
 
-[https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf](https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf) and [https://files.fosswire.com/2007/08/fwunixref.pdf](https://files.fosswire.com/2007/08/fwunixref.pdf) - Unix/Linux command reference sheets
+- [https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf](https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf) and [https://files.fosswire.com/2007/08/fwunixref.pdf](https://files.fosswire.com/2007/08/fwunixref.pdf) - Unix/Linux command reference sheets
 
-[http://matt.might.net/articles/basic-unix/](http://matt.might.net/articles/basic-unix/) - Survival guide for Unix newbies
+- [http://matt.might.net/articles/basic-unix/](http://matt.might.net/articles/basic-unix/) - Survival guide for Unix newbies
 
-[http://matt.might.net/articles/settling-into-unix/](http://matt.might.net/articles/settling-into-unix/) - Settling into Unix tutorial
+- [http://matt.might.net/articles/settling-into-unix/](http://matt.might.net/articles/settling-into-unix/) - Settling into Unix tutorial
 
-[http://matt.might.net/articles/bash-by-example/](http://matt.might.net/articles/bash-by-example/) - Shell programming with bash tutorial
+- [http://matt.might.net/articles/bash-by-example/](http://matt.might.net/articles/bash-by-example/) - Shell programming with bash tutorial
 
-[http://www.commandlinefu.com/commands/browse](http://www.commandlinefu.com/commands/browse) - CommandLineFu.com, command-line one-liner gems
+- [http://www.commandlinefu.com/commands/browse](http://www.commandlinefu.com/commands/browse) - CommandLineFu.com, command-line one-liner gems
 
-[https://swcarpentry.github.io/shell-novice/](https://swcarpentry.github.io/shell-novice/) - "The Unix shell", Software Carpentry
+- [https://swcarpentry.github.io/shell-novice/](https://swcarpentry.github.io/shell-novice/) - "The Unix shell", Software Carpentry
+
+- [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers. [http://terminalsare.sexy](http://terminalsare.sexy)
 
 ### Text manipulation with grep, awk, sed, vim {#text}
 
