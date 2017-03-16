@@ -44,8 +44,8 @@ After successful completion of this course, students will be able to:
     - Windows only: [Git Bash](https://git-for-windows.github.io/ 
     ) or [Cygwin](http://www.cygwin.com/
     )
-    - [R](https://www.r-project.org/)
-    - [Rstudio](https://www.rstudio.com/)
+    - [R](https://www.r-project.org/). Installing R for Windows [https://youtu.be/Ohnk9hcxf9M](https://youtu.be/Ohnk9hcxf9M) or Mac [https://youtu.be/uxuuWXU-7UQ](https://youtu.be/uxuuWXU-7UQ)
+    - [Rstudio](https://www.rstudio.com/). Installing RStudio on Mac [https://youtu.be/bM7Sfz-LADM](https://youtu.be/bM7Sfz-LADM)
     - Windows only: [Rtools](https://cran.r-project.org/bin/windows/Rtools/)
     - [Git](https://git-scm.com/downloads)
     - a text editor ([Notepad++](https://notepad-plus-plus.org/) on Windows, or [Sublime text](https://www.sublimetext.com/) on any platform)
