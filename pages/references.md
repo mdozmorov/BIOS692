@@ -156,6 +156,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ## Version control, sharing and collaboration
 
+- [https://github.com/jtleek/datasharing](https://github.com/jtleek/datasharing) - How to share data with a statistician, by Jeff Leek's group
+
 ### Git/GitHub {#git}
 
 [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/) - One-pager simple git guide
