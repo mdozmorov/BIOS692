@@ -45,6 +45,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ### Linux/bash basics {#linux}
 
+- [https://data36.com/data-coding-bash-best-practices/](https://data36.com/data-coding-bash-best-practices/) - Data Coding 101 – Intro To Bash. Four episodes, video.
+
 - [http://explainshell.com/](http://explainshell.com/) - Explain any shell command
 
 - [https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf](https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf) and [https://files.fosswire.com/2007/08/fwunixref.pdf](https://files.fosswire.com/2007/08/fwunixref.pdf) - Unix/Linux command reference sheets
