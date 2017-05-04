@@ -91,6 +91,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) - Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. “Best Practices for Scientific Computing.” PLoS Biology 2014.
 
+[https://github.com/datacarpentry/rr-organization1](https://github.com/datacarpentry/rr-organization1) - organization of files, folders, code, by DataCarpentry.
+
 ### Makefiles {#make}
 
 [http://kbroman.org/minimal_make/](http://kbroman.org/minimal_make/) - "A minimal tutorial on make" by Karl Broman
