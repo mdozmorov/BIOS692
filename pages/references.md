@@ -24,6 +24,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 [http://bioconnector.org/workshops/index.html](http://bioconnector.org/workshops/index.html) - Biomedical Data Science Workshops by [Stephen Turner](https://github.com/stephenturner/). From R basics through data manipulation with dplyr, visualization with ggplot2, reproducible research with knitr.
 
+[https://info201-s17.github.io/book/index.html](https://info201-s17.github.io/book/index.html) - "Technical Foundations of Informatics" by Michael Freeman and Joel Ross. Introduction to R, Rmarkdown, plotly, shiny, git and github.
+
 [https://vimeo.com/101543862](https://vimeo.com/101543862) - Video: "How to Speak”, lecture tips from  [Patrick Winston](https://people.csail.mit.edu/phw/)
 
 [https://github.com/jtleek/talkguide](https://github.com/jtleek/talkguide) - "Guide to give talks" by Jeff Leek
@@ -181,6 +183,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 [http://ericsink.com/vcbe/](http://ericsink.com/vcbe/) - Book "Version Control by Example" by Eric Sink
 
 [http://happygitwithr.com/](http://happygitwithr.com/) - Book(down) "Happy Git and GitHub for the useR" by Jenny Bryan
+
+[https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) - how to create pull requests
 
 ### Licenses {#licenses}
 
