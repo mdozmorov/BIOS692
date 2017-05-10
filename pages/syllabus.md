@@ -2,6 +2,7 @@
 title: "Syllabus, **Reproducible research tools** course, BIOS 692"
 layout: page
 output:
+  pdf_document: default
   html_document: default
   word_document:
     reference_docx: ../styles.doc/Arial_style.docx
@@ -18,7 +19,7 @@ Welcome! The course is offered through the Virginia Commonwealth University, [De
 
 **Units/Credits**: 1
 
-**Lectures**: Monday-Thursday, June 5-8, 2016, 9:00am-10:50am, One Capitol Square, room 5009, 830 East Main Street, RVA
+**Lectures**: Monday-Thursday, June 5-8, 2017, 9:00am-10:50am, One Capitol Square, room 5009, 830 East Main Street, RVA
 
 ## Course Description
 
@@ -30,7 +31,7 @@ This course will cover the philosophy and practical aspects of reproducible rese
 
 After successful completion of this course, students will be able to:
 
-- Know the main steps and best practices of computational reproducible research
+- Know the main steps and best practices of reproducible research in data science
 - Use command line and other software tools to organize data and analysis
 - Effectively communicate the outcome of data analysis using literate programming and visualizations
 - Keeping history of changes via version control system
@@ -66,7 +67,7 @@ None. Instead, a list of relevant reading will be provided.
 
 ## Grading Procedure
 
-Students are expected to attend every class and be on time.  Participation counts toward the final grade. 
+Students are expected to attend every class and be on time. Participation counts toward the final grade. Homework will be provided for each topic and counts towards the final grade.
 
 # Topics
 
@@ -88,7 +89,7 @@ Students are expected to attend every class and be on time.  Participation count
 2. Data manipulation and visualization in R 
 3. Presentations and web publishing 
 
-### Version control, sharing and collaboration
+### Version control, sharing, and collaboration
 
 1. Tracking changes with Git/GitHub 
 2. Licenses 
