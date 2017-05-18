@@ -138,6 +138,12 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 - R markdown reference sheets. [https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) and [https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) 
 
+- Slidify: Modern, simple presentations written in R Markdown[https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/](https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/) 
+
+- Xaringan, presentation template based on `remark.js` by Yihui Xie. [https://github.com/yihui/xaringan]
+
+- An R package to produce posters. [https://github.com/pzhaonet/postr](https://github.com/pzhaonet/postr). And, a collection of templates to make posters, presentations and publications in R Markdown. [https://github.com/exporl/kuleuven-templates](https://github.com/exporl/kuleuven-templates)
+
 ### Data manipulation and visualization in R {#data}
 
 - Data Manipulation Using R (& dplyr). PDF slides available at [https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf](https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf), and [http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) 
@@ -160,8 +166,6 @@ title: References, "Reproducible research tools" course, BIOS 692
 ### Reproducible presentation and web-publishing {#publishing}
 
 - Easy web publishing from R on Rpubs.com. [http://rpubs.com/](http://rpubs.com/) 
-
-- Slidify: Modern, simple presentations written in R Markdown[https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/](https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/) 
 
 - "Easy websites with GitHub Pages" by Karl Broman. [http://kbroman.org/simple_site/](http://kbroman.org/simple_site/) 
 
