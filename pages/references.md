@@ -6,199 +6,208 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ## General
 
-[https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - A collection of links to learning resources about Unix, shell best practices, R and python tools for genomics
+- A collection of links to learning resources about Unix, shell best practices, R and python tools for genomics. [https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) 
 
-[http://kbroman.org/Tools4RR/](http://kbroman.org/Tools4RR/) - "Tools for Reproducible Research" course by Karl Broman
+- "Tools for Reproducible Research" course by Karl Broman. [http://kbroman.org/Tools4RR/](http://kbroman.org/Tools4RR/) 
 
-[http://kbroman.org/steps2rr/pages/resources.html](http://kbroman.org/steps2rr/pages/resources.html) - Resources, "Steps towards reproducible research" 
+- "Steps towards reproducible research" resources and reading. [http://kbroman.org/steps2rr/pages/resources.html](http://kbroman.org/steps2rr/pages/resources.html) 
 
-[http://software-carpentry.org/lessons/](http://software-carpentry.org/lessons/) - Software Carpentry' lessons
+- Software Carpentry lessons on Unix, version control, automation, R & Python programming. [http://software-carpentry.org/lessons/](http://software-carpentry.org/lessons/) 
 
-[http://software-carpentry.org/reading/](http://software-carpentry.org/reading/) - Software Carpentry' reading material on software engineering and scientific computing
+- Software Carpentry reading material on software engineering and scientific computing. [http://software-carpentry.org/reading/](http://software-carpentry.org/reading/) 
 
-[https://github.com/UW-Madison-ACI/boot-camps](https://github.com/UW-Madison-ACI/boot-camps) - UW-Madison Software Carpentry Workshop for the Social Sciences
+- UW-Madison Software Carpentry Workshop coveryng best practices of coding. [https://github.com/UW-Madison-ACI/boot-camps](https://github.com/UW-Madison-ACI/boot-camps)
 
-[https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics) and [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual) - Linux basics and R basics manuals by [Thomas Girke](http://girke.bioinformatics.ucr.edu/)
+- - Linux basics and R basics manuals and tutorials by [Thomas Girke](http://girke.bioinformatics.ucr.edu/). [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics) and [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual) 
 
-[http://r4ds.had.co.nz/](http://r4ds.had.co.nz/) - R for Data Science book by Garrett Grolemund & Hadley Wickham, covers ecosystem of R tools for data analysis and visualization done right.
+- "R for Data Science" book by Garrett Grolemund & Hadley Wickham, covers ecosystem of R tools for data analysis and visualization done right. [http://r4ds.had.co.nz/](http://r4ds.had.co.nz/) 
 
-[http://bioconnector.org/workshops/index.html](http://bioconnector.org/workshops/index.html) - Biomedical Data Science Workshops by [Stephen Turner](https://github.com/stephenturner/). From R basics through data manipulation with dplyr, visualization with ggplot2, reproducible research with knitr.
+- Biomedical Data Science Workshops by [Stephen Turner](https://github.com/stephenturner/). From R basics through data manipulation with `dplyr`, visualization with `ggplot2`, reproducible research with `knitr`. [http://bioconnector.org/workshops/index.html](http://bioconnector.org/workshops/index.html) 
 
-[https://info201-s17.github.io/book/index.html](https://info201-s17.github.io/book/index.html) - "Technical Foundations of Informatics" by Michael Freeman and Joel Ross. Introduction to R, Rmarkdown, plotly, shiny, git and github.
+- - "Technical Foundations of Informatics" by Michael Freeman and Joel Ross. Introduction to R, Rmarkdown, plotly, shiny, git and github. [https://info201-s17.github.io/book/index.html](https://info201-s17.github.io/book/index.html) 
 
-[https://vimeo.com/101543862](https://vimeo.com/101543862) - Video: "How to Speak”, lecture tips from  [Patrick Winston](https://people.csail.mit.edu/phw/)
+- "Guide to give talks" by Jeff Leek. [https://github.com/jtleek/talkguide](https://github.com/jtleek/talkguide)
 
-[https://github.com/jtleek/talkguide](https://github.com/jtleek/talkguide) - "Guide to give talks" by Jeff Leek
+- Video: "How to Speak", lecture tips from  [Patrick Winston](https://people.csail.mit.edu/phw/). [https://vimeo.com/101543862](https://vimeo.com/101543862) 
 
-[https://www.youtube.com/watch?v=g3dkRsTqdDA](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Video: "How to Write a Great Research Paper" by Professor Simon Peyton Jones, Microsoft Research
+- Video: "How to Write a Great Research Paper" by Professor Simon Peyton Jones, Microsoft Research. [https://www.youtube.com/watch?v=g3dkRsTqdDA](https://www.youtube.com/watch?v=g3dkRsTqdDA) 
+
 
 ## Steps in reproducible research
 
 ### Overview {#overview}
 
-[http://www.nature.com/collections/qghhqm](http://www.nature.com/collections/qghhqm) - "Statistics for biologists" one-pagers about methods and reproducibility
+- Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, and Eivind Hovig. "Ten Simple Rules for Reproducible Computational Research." PLoS Computational Biology 2013. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) 
 
-- Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, and Eivind Hovig. “Ten Simple Rules for Reproducible Computational Research.” PLoS Computational Biology 2013. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) 
+- List, Markus, Peter Ebert, and Felipe Albrecht. "Ten Simple Rules for Developing Usable Software in Computational Biology." PLoS Computational Biology 2017. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
 
-- List, Markus, Peter Ebert, and Felipe Albrecht. “Ten Simple Rules for Developing Usable Software in Computational Biology.” PLoS Computational Biology 2017. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
+- Millman, K Jarrod, and Fernando Pérez. "Developing Open-Source Scientific Practice." Implementing Reproducible Research. 2014. [http://www.jarrodmillman.com/oss-chapter.html](http://www.jarrodmillman.com/oss-chapter.html). A thorough and practical account of all steps in computational reproducible research.
 
-- Millman, K Jarrod, and Fernando Pérez. “Developing Open-Source Scientific Practice.” Implementing Reproducible Research. 2014. [http://www.jarrodmillman.com/oss-chapter.html](http://www.jarrodmillman.com/oss-chapter.html). A thorough and practical account of all steps in computational reproducible research.
+- "Ten simple rules" collection of essays covering all professional aspects of scientific career. [http://collections.plos.org/ten-simple-rules](http://collections.plos.org/ten-simple-rules)
+
+- "Statistics for biologists" one-pagers about statistics, methods, and reproducibility by Nature journals. [http://www.nature.com/collections/qghhqm](http://www.nature.com/collections/qghhqm)
+
+- "Points of significance" collection of statistical primers by Nature Methods. [https://www.nature.com/collections/qghhqm/pointsofsignificance](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+
+- "Computational Biology Primers" one- or two-pagers on various topics of genomics and bioinformatics by Nature Biotechnology journal. [https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html]
 
 
 ### Linux/bash basics {#linux}
 
-- [https://data36.com/data-coding-bash-best-practices/](https://data36.com/data-coding-bash-best-practices/) - Data Coding 101 – Intro To Bash. Four episodes, video.
+- Data Coding 101 – Intro To Bash. Four episodes, video. [https://data36.com/data-coding-bash-best-practices/](https://data36.com/data-coding-bash-best-practices/)
 
-- [http://explainshell.com/](http://explainshell.com/) - Explain any shell command
+- An interactive explainer of any shell command. [http://explainshell.com/](http://explainshell.com/) 
 
-- [https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf](https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf) and [https://files.fosswire.com/2007/08/fwunixref.pdf](https://files.fosswire.com/2007/08/fwunixref.pdf) - Unix/Linux command reference sheets
+- Unix/Linux command reference sheets. [https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf](https://cheat-sheets.s3.amazonaws.com/linux-commands-cheat-sheet-new.pdf) and [https://files.fosswire.com/2007/08/fwunixref.pdf](https://files.fosswire.com/2007/08/fwunixref.pdf) 
 
-- [http://matt.might.net/articles/basic-unix/](http://matt.might.net/articles/basic-unix/) - Survival guide for Unix newbies
+- Survival guide for Unix newbies. [http://matt.might.net/articles/basic-unix/](http://matt.might.net/articles/basic-unix/) 
 
-- [http://matt.might.net/articles/settling-into-unix/](http://matt.might.net/articles/settling-into-unix/) - Settling into Unix tutorial
+- Settling into Unix tutorial. [http://matt.might.net/articles/settling-into-unix/](http://matt.might.net/articles/settling-into-unix/) 
 
-- [http://matt.might.net/articles/bash-by-example/](http://matt.might.net/articles/bash-by-example/) - Shell programming with bash tutorial
+- Shell programming with bash tutorial. [http://matt.might.net/articles/bash-by-example/](http://matt.might.net/articles/bash-by-example/) 
 
-- [http://www.commandlinefu.com/commands/browse](http://www.commandlinefu.com/commands/browse) - CommandLineFu.com, command-line one-liner gems
+- Master the power of command-line with a list of one-liner gems. [http://www.commandlinefu.com/commands/browse](http://www.commandlinefu.com/commands/browse) 
 
-- [https://swcarpentry.github.io/shell-novice/](https://swcarpentry.github.io/shell-novice/) - "The Unix shell", Software Carpentry
+- "The Unix shell", Software Carpentry. [https://swcarpentry.github.io/shell-novice/](https://swcarpentry.github.io/shell-novice/) 
 
-- [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers. [http://terminalsare.sexy](http://terminalsare.sexy)
+- A curated list of Terminal frameworks, plugins & resources for command-line interface (CLI) lovers. [http://terminalsare.sexy](http://terminalsare.sexy) and [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) 
+
 
 ### Text manipulation with grep, awk, sed, vim {#text}
 
-[http://www.grymoire.com/Unix/Sed.html](http://www.grymoire.com/Unix/Sed.html) - Tutorial to sed by Bruce Barnett
+- Tutorial to `sed` by Bruce Barnett. [http://www.grymoire.com/Unix/Sed.html](http://www.grymoire.com/Unix/Sed.html) 
 
-[https://blog.interlinked.org/tutorials/vim_tutorial.html](https://blog.interlinked.org/tutorials/vim_tutorial.html) - Vim introduction and tutorial
+- Vim introduction and tutorial. [https://blog.interlinked.org/tutorials/vim_tutorial.html](https://blog.interlinked.org/tutorials/vim_tutorial.html) 
 
-[http://www.openvim.com/](http://www.openvim.com/) - Interactive Vim tutorial
+- Interactive Vim tutorial. [http://www.openvim.com/](http://www.openvim.com/) 
 
-[http://web.mit.edu/merolish/Public/vi-ref.pdf](http://web.mit.edu/merolish/Public/vi-ref.pdf) - Vim reference card
+- Vim reference card. [http://web.mit.edu/merolish/Public/vi-ref.pdf](http://web.mit.edu/merolish/Public/vi-ref.pdf) 
+
 
 ## Automating everything
 
 ### Best practices of data/code organization {#code}
 
-[http://kbroman.org/steps2rr/pages/organize.html](http://kbroman.org/steps2rr/pages/organize.html) - Tips for organizing projects from Karl Broman
+- Tips for organizing projects from Karl Broman. [http://kbroman.org/steps2rr/pages/organize.html](http://kbroman.org/steps2rr/pages/organize.html) 
 
-[http://kbroman.org/dataorg/](http://kbroman.org/dataorg/) - Organizing data in spreadsheets tutorial. Or, read the paper [https://github.com/kbroman/Paper_DataOrg](https://github.com/kbroman/Paper_DataOrg)
+- Organizing data in spreadsheets tutorial. [http://kbroman.org/dataorg/](http://kbroman.org/dataorg/). Or, read the paper [https://github.com/kbroman/Paper_DataOrg](https://github.com/kbroman/Paper_DataOrg)
 
-[http://www.cbs.dtu.dk/courses/27610/clean_code_index.html](http://www.cbs.dtu.dk/courses/27610/clean_code_index.html) - Clean Code, best practices for function names, patterns and anti-patterns, and more on good programming practices
+- Clean Code, best practices for function names, patterns and anti-patterns, and more on good programming practices[http://www.cbs.dtu.dk/courses/27610/clean_code_index.html](http://www.cbs.dtu.dk/courses/27610/clean_code_index.html) 
 
-[https://github.com/oicr-gsi/robust-paper](https://github.com/oicr-gsi/robust-paper) - Ten Simple Rules for Robustifying Your Software
+- Ten Simple Rules for Robustifying Your Software. [https://github.com/oicr-gsi/robust-paper](https://github.com/oicr-gsi/robust-paper) 
 
-[https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) - "Code and Data for the Social Sciences: A Practitioner’s Guide" book by Matthew Gentzkow and Jesse Shapiro, PDF
+- "Code and Data for the Social Sciences: A Practitioner’s Guide" book by Matthew Gentzkow and Jesse Shapiro, PDF. [https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) 
 
-[http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) - Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. “Best Practices for Scientific Computing.” PLoS Biology 2014.
+- Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. "Best Practices for Scientific Computing." PLoS Biology 2014. [http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) 
 
-[https://github.com/datacarpentry/rr-organization1](https://github.com/datacarpentry/rr-organization1) - organization of files, folders, code, by DataCarpentry.
+- Organization of files, folders, code, by DataCarpentry. [https://github.com/datacarpentry/rr-organization1](https://github.com/datacarpentry/rr-organization1) 
 
 ### Makefiles {#make}
 
-[http://kbroman.org/minimal_make/](http://kbroman.org/minimal_make/) - "A minimal tutorial on make" by Karl Broman
+- "A minimal tutorial on make" by Karl Broman. [http://kbroman.org/minimal_make/](http://kbroman.org/minimal_make/) 
 
-[http://davetang.org/muse/2015/05/31/learning-about-makefiles/](http://davetang.org/muse/2015/05/31/learning-about-makefiles/) - "Learning about Makefiles" by Dave Tang
+- "Learning about Makefiles" by Dave Tang. [http://davetang.org/muse/2015/05/31/learning-about-makefiles/](http://davetang.org/muse/2015/05/31/learning-about-makefiles/) 
 
-[https://swcarpentry.github.io/make-novice/](https://swcarpentry.github.io/make-novice/) - Automation and Make by SoftwareCarpentry
+- Automation and Make by SoftwareCarpentry. [https://swcarpentry.github.io/make-novice/](https://swcarpentry.github.io/make-novice/) 
 
 ### RStudio, R functions & packages {#rfunctions}
 
-[http://kbroman.org/steps2rr/pages/functions.html](http://kbroman.org/steps2rr/pages/functions.html) - Repeated code into functions
+- Transform repeated code into functions. [http://kbroman.org/steps2rr/pages/functions.html](http://kbroman.org/steps2rr/pages/functions.html) 
 
-[http://kbroman.org/steps2rr/pages/packages.html](http://kbroman.org/steps2rr/pages/packages.html) - How-to package functions
+- How-to package functions. [http://kbroman.org/steps2rr/pages/packages.html](http://kbroman.org/steps2rr/pages/packages.html) 
 
-[https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) - Package tutorial by Hillary Parker
+- Package tutorial by Hillary Parker. [https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) 
 
-[http://kbroman.org/pkg_primer/](http://kbroman.org/pkg_primer/) - R package primer by Karl Broman
+- R package primer by Karl Broman. [http://kbroman.org/pkg_primer/](http://kbroman.org/pkg_primer/) 
 
-[http://r-pkgs.had.co.nz/](http://r-pkgs.had.co.nz/) - "R packages" book by Hadley Wickham
+- "R packages" book by Hadley Wickham. [http://r-pkgs.had.co.nz/](http://r-pkgs.had.co.nz/) 
 
-[https://github.com/jtleek/rpackages](https://github.com/jtleek/rpackages) - Jeff Leek on developing R packages
+- Jeff Leek on developing R packages. [https://github.com/jtleek/rpackages](https://github.com/jtleek/rpackages) 
 
 ## Reproducible reports
 
 ### Literate programming with Markdown/KnitR {#knitr}
 
-[http://kbroman.org/steps2rr/pages/reports.html](http://kbroman.org/steps2rr/pages/reports.html) - "Turn scripts into reproducible reports" by Karl Broman
+- "Turn scripts into reproducible reports" by Karl Broman. [http://kbroman.org/steps2rr/pages/reports.html](http://kbroman.org/steps2rr/pages/reports.html) 
 
-[http://kbroman.org/knitr_knutshell/pages/markdown.html](http://kbroman.org/knitr_knutshell/pages/markdown.html) and [http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html) - "R Markdown" by Karl Broman
+- "R Markdown" tutorial by Karl Broman. [http://kbroman.org/knitr_knutshell/pages/markdown.html](http://kbroman.org/knitr_knutshell/pages/markdown.html) and [http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html) 
 
-[http://petrelharp.github.io/r-markdown-tutorial/using-rmarkdown.slides.html](http://petrelharp.github.io/r-markdown-tutorial/using-rmarkdown.slides.html), and [https://petrelharp.github.io/r-markdown-tutorial/gotchas.html](https://petrelharp.github.io/r-markdown-tutorial/gotchas.html) - "A quick introduction to R/markdown" presentation by Peter Ralph, and some R Markdown gotchas (advanced)
+- "A quick introduction to R/markdown" presentation by Peter Ralph, and some R Markdown gotchas (advanced). [http://petrelharp.github.io/r-markdown-tutorial/using-rmarkdown.slides.html](http://petrelharp.github.io/r-markdown-tutorial/using-rmarkdown.slides.html), and [https://petrelharp.github.io/r-markdown-tutorial/gotchas.html](https://petrelharp.github.io/r-markdown-tutorial/gotchas.html) 
 
-[https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R](https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R) - R Markdown guides from Rstudio
+- R Markdown guides from Rstudio. [https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R](https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R) 
 
-[https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) and [https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) - R markdown reference sheets
+- R markdown reference sheets. [https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) and [https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) 
 
 ### Data manipulation and visualization in R {#data}
 
-[http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) - Data Manipulation Using R (& dplyr). PDF slides available at [https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf](https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf)
+- Data Manipulation Using R (& dplyr). PDF slides available at [https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf](https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf), and [http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) 
 
-[http://datascienceplus.com/data-manipulation-with-dplyr/](http://datascienceplus.com/data-manipulation-with-dplyr/) - Data Manipulation with dplyr
+- Data Manipulation with `dplyr`. [http://datascienceplus.com/data-manipulation-with-dplyr/](http://datascienceplus.com/data-manipulation-with-dplyr/) 
 
-[http://www.datacarpentry.org/R-genomics/04-dplyr.html](http://www.datacarpentry.org/R-genomics/04-dplyr.html) - "Aggregating and analyzing data with dplyr" by Data Carpentry
+- "Aggregating and analyzing data with dplyr" by Data Carpentry. [http://www.datacarpentry.org/R-genomics/04-dplyr.html](http://www.datacarpentry.org/R-genomics/04-dplyr.html) 
 
-[http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html](http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html) - Do your "data janitor work" like a boss with dplyr
+- Do your "data janitor work" like a boss with `dplyr`. [http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html](http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html) 
 
-[http://www.datacarpentry.org/R-genomics/05-data-visualization.html](http://www.datacarpentry.org/R-genomics/05-data-visualization.html) - "Data visualization in R" by Data Carpentry
+- "Data visualization in R" by Data Carpentry. [http://www.datacarpentry.org/R-genomics/05-data-visualization.html](http://www.datacarpentry.org/R-genomics/05-data-visualization.html) 
 
-[https://github.com/jennybc/ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial) - "ggplot2 tutorial/slides/code examples/references" by Jenny Bryan
+- "ggplot2 tutorial/slides/code examples/references" by Jenny Bryan. [https://github.com/jennybc/ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial) 
 
-[http://shiny.stat.ubc.ca/r-graph-catalog/](http://shiny.stat.ubc.ca/r-graph-catalog/) - "R Graph Catalog”, visuals and code examples of graphs made with ggplot2
+- "R Graph Catalog", visuals and code examples of graphs made with `ggplot2`. [http://shiny.stat.ubc.ca/r-graph-catalog/](http://shiny.stat.ubc.ca/r-graph-catalog/) 
 
-[http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm](http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm) - R Seminar: Introduction to ggplot2, comprehensive introduction and into ggplot2, from UCLA
+ - R Seminar: Introduction to `ggplot2`, comprehensive introduction, from UCLA. [http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm](http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm) -
 
 
 ### Reproducible presentation and web-publishing {#publishing}
 
-[http://rpubs.com/](http://rpubs.com/) - Easy web publishing from R on Rpubs.com
+- Easy web publishing from R on Rpubs.com. [http://rpubs.com/](http://rpubs.com/) 
 
-[https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/](https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/) - Slidify: Modern, simple presentations written in R Markdown
+- Slidify: Modern, simple presentations written in R Markdown[https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/](https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/) 
 
-[http://kbroman.org/simple_site/](http://kbroman.org/simple_site/) - "Easy websites with GitHub Pages" by Karl Broman
+- "Easy websites with GitHub Pages" by Karl Broman. [http://kbroman.org/simple_site/](http://kbroman.org/simple_site/) 
 
-[https://github.com/rstudio/bookdown](https://github.com/rstudio/bookdown) - Creating web documentation with Bookdown
+- Creating web documentation with Bookdown. [https://github.com/rstudio/bookdown](https://github.com/rstudio/bookdown) 
 
-[https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/) - Example, "Bookdown: Authoring Books with R Markdown" by Yihui Xie
+- Example, "Bookdown: Authoring Books with R Markdown" by Yihui Xie. [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
 
 ## Version control, sharing and collaboration
 
-- [https://github.com/jtleek/datasharing](https://github.com/jtleek/datasharing) - How to share data with a statistician, by Jeff Leek's group
+- How to share data with a statistician, by Jeff Leek group. [https://github.com/jtleek/datasharing](https://github.com/jtleek/datasharing) 
 
 ### Git/GitHub {#git}
 
-[https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/) - One-pager simple git guide
+- One-pager simple `git` guide. [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/) 
 
-[https://github.com/kbroman/Tools4RR/blob/master/04_Git/GitCommands/git_notes.md](https://github.com/kbroman/Tools4RR/blob/master/04_Git/GitCommands/git_notes.md) - One-pager of git commands
+- One-pager of `git` commands. [https://github.com/kbroman/Tools4RR/blob/master/04_Git/GitCommands/git_notes.md](https://github.com/kbroman/Tools4RR/blob/master/04_Git/GitCommands/git_notes.md) 
 
-[https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1) - Interactive git
+- Learn `git` interactively in 15 min. [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1) 
 
-[http://learngitbranching.js.org/](http://learngitbranching.js.org/) - Interactive git branching tutorial
+- Interactive git branching tutorial. [http://learngitbranching.js.org/](http://learngitbranching.js.org/) 
 
-[http://www.dataschool.io/git-and-github-videos-for-beginners/](http://www.dataschool.io/git-and-github-videos-for-beginners/) - Quick Git and GitHub videos
+- "Git and GitHub guide" by Karl Broman[http://kbroman.org/github_tutorial/](http://kbroman.org/github_tutorial/) 
 
-[http://kbroman.org/github_tutorial/](http://kbroman.org/github_tutorial/) - "Git and GitHub guide" by Karl Broman
+- Software Carpentry course on `git`. [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) 
 
-[https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) - Software Carpentry course
+- Book "Version Control by Example" by Eric Sink. [http://ericsink.com/vcbe/](http://ericsink.com/vcbe/) 
 
-[https://www.youtube.com/user/GitHubGuides/videos](https://www.youtube.com/user/GitHubGuides/videos) - GitHub training videos
+- Book(down) "Happy Git and GitHub for the useR" by Jenny Bryan. [http://happygitwithr.com/](http://happygitwithr.com/) 
 
-[http://ericsink.com/vcbe/](http://ericsink.com/vcbe/) - Book "Version Control by Example" by Eric Sink
+- How to create pull requests. [https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) 
 
-[http://happygitwithr.com/](http://happygitwithr.com/) - Book(down) "Happy Git and GitHub for the useR" by Jenny Bryan
+- Quick Git and GitHub videos. [http://www.dataschool.io/git-and-github-videos-for-beginners/](http://www.dataschool.io/git-and-github-videos-for-beginners/) 
 
-[https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) - how to create pull requests
+- GitHub training videos. [https://www.youtube.com/user/GitHubGuides/videos](https://www.youtube.com/user/GitHubGuides/videos) 
 
 ### Licenses {#licenses}
 
-[https://swcarpentry.github.io/git-novice/11-licensing.html](https://swcarpentry.github.io/git-novice/11-licensing.html) - "Licensing", SoftwareCarpentry
+- "Licensing", SoftwareCarpentry. [https://swcarpentry.github.io/git-novice/11-licensing.html](https://swcarpentry.github.io/git-novice/11-licensing.html) 
 
-[https://blog.codinghorror.com/pick-a-license-any-license/](https://blog.codinghorror.com/pick-a-license-any-license/) - "Pick a License, Any License"
+- "Pick a License, Any License". [https://blog.codinghorror.com/pick-a-license-any-license/](https://blog.codinghorror.com/pick-a-license-any-license/) 
 
-[http://kbroman.org/steps2rr/pages/licenses.html](http://kbroman.org/steps2rr/pages/licenses.html) - "License your software" by Karl Broman
+- "License your software" by Karl Broman. [http://kbroman.org/steps2rr/pages/licenses.html](http://kbroman.org/steps2rr/pages/licenses.html) 
 
-[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598) - Morin, Andrew, Jennifer Urban, and Piotr Sliz. “A Quick Guide to Software Licensing for the Scientist-Programmer.” PLoS Computational Biology 2012
+- Morin, Andrew, Jennifer Urban, and Piotr Sliz. "A Quick Guide to Software Licensing for the Scientist-Programmer." PLoS Computational Biology 2012. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598) 
 
 ### Data/code sharing repositories {#sharing}
 
-[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542) - Goodman, Alyssa, Alberto Pepe, Alexander W. Blocker, Christine L. Borgman, Kyle Cranmer, Merce Crosas, Rosanne Di Stefano, et al. “Ten Simple Rules for the Care and Feeding of Scientific Data.” PLoS Computational Biology 2014. Lists all major data sharing repositories
+- Goodman, Alyssa, Alberto Pepe, Alexander W. Blocker, Christine L. Borgman, Kyle Cranmer, Merce Crosas, Rosanne Di Stefano, et al. "Ten Simple Rules for the Care and Feeding of Scientific Data." PLoS Computational Biology 2014. Lists all major data sharing repositories. [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542) 
 
