@@ -124,6 +124,10 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 - Jeff Leek on developing R packages. [https://github.com/jtleek/rpackages](https://github.com/jtleek/rpackages) 
 
+- `sinew` R package for making templates of help headers for functions. [https://github.com/metrumresearchgroup/sinew](https://github.com/metrumresearchgroup/sinew)
+
+- `pRojects` R package for making project templates. [https://github.com/lockedata/pRojects](https://github.com/lockedata/pRojects)
+
 ## Reproducible reports
 
 ### Literate programming with Markdown/KnitR {#knitr}
@@ -141,6 +145,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 - Slidify: Modern, simple presentations written in R Markdown[https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/](https://benjaminlmoore.wordpress.com/2014/02/24/slidify-presentations-in-r-markdown/) 
 
 - Xaringan, presentation template based on `remark.js` by Yihui Xie. [https://github.com/yihui/xaringan]
+
+- md2googleslides, Markdown to Google Slides converter. [https://github.com/googlesamples/md2googleslides](https://github.com/googlesamples/md2googleslides)
 
 - An R package to produce posters. [https://github.com/pzhaonet/postr](https://github.com/pzhaonet/postr). And, a collection of templates to make posters, presentations and publications in R Markdown. [https://github.com/exporl/kuleuven-templates](https://github.com/exporl/kuleuven-templates)
 
@@ -172,6 +178,9 @@ title: References, "Reproducible research tools" course, BIOS 692
 - Creating web documentation with Bookdown. [https://github.com/rstudio/bookdown](https://github.com/rstudio/bookdown) 
 
 - Example, "Bookdown: Authoring Books with R Markdown" by Yihui Xie. [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
+
+- Github Pages template for academic personal websites. [https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+
 
 ## Version control, sharing and collaboration
 
