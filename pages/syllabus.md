@@ -73,27 +73,31 @@ Students are expected to attend every class and be on time. Participation counts
 
 ### Steps in reproducible research
 
-1. Overview of reproducible research
-2. Linux/bash basics
-3. Text manipulation with grep, awk, sed, vim 
+1. Overview [Slides](1_Steps_overview.pdf), <a href="references.html#overview">References</a>
+2. Linux/bash basics [Slides](1_Steps_Linux.pdf), <a href="references.html#linux">References</a>
+3. Text manipulation with grep, awk, sed, vim [Slides](1_Steps_text.pdf), <a href="references.html#text">References</a>
+
+Example file: [chromInfo.txt.gz (0.8kb)](http://hgdownload.cse.ucsc.edu/goldenpath/hg19/database/chromInfo.txt.gz)
 
 ### Automating everything
 
-1. Best practices of data/code organization
-2. Make/Makefiles
-3. RStudio, R functions & packages
+1. Best practices of data/code organization [Slides](2_Automating_best_practices.pdf) <a href="references.html#code">References</a>
+2. Make/Makefiles [Slides](2_Automating_make.pdf) <a href="references.html#make">References</a>
+3. RStudio, R functions & packages [Slides](2_Automating_R_packages.pdf) <a href="references.html#rfunctions">References</a>
+
+Example makefile: [Makefile](Makefile)
 
 ### Reproducible reports
 
-1. Literate programming with Markdown/KnitR
-2. Data manipulation and visualization in R 
-3. Presentations and web publishing 
+1. Literate programming with Markdown/KnitR [Slides](3_Reports_Markdown_knitr.pdf) <a href="references.html#knitr">References</a>
+2. Data manipulation and visualization in R [Slides](3_Reports_graphics.pdf) <a href="references.html#data">References</a>
+3. Presentations and web publishing [Slides](3_Reports_presentations.pdf) <a href="references.html#publishing">References</a>
 
 ### Version control, sharing, and collaboration
 
-1. Tracking changes with Git/GitHub 
-2. Licenses 
-3. Data/code sharing repositories
+1. Git/GitHub [Slides](4_Version_control_Git.pdf) <a href="references.html#git">References</a>
+2. Licenses [Slides](4_Version_control_Licensing.pdf) <a href="references.html#licenses">References</a>
+3. Data/code sharing repositories [Slides](4_Version_control_Sharing.pdf) <a href="references.html#sharing">References</a>
 
 # References
 
