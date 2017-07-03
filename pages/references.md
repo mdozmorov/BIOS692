@@ -54,6 +54,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 ### Linux/bash basics {#linux}
 
+- A Book for Anyone to Get Started with Unix. http://seankross.com/the-unix-workbench/, and the GitHub repository, https://github.com/seankross/the-unix-workbench
+
 - Data Coding 101 – Intro To Bash. Four episodes, video. [https://data36.com/data-coding-bash-best-practices/](https://data36.com/data-coding-bash-best-practices/)
 
 - An interactive explainer of any shell command. [http://explainshell.com/](http://explainshell.com/) 
