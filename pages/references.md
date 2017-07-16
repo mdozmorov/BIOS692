@@ -152,6 +152,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 - An R package to produce posters. [https://github.com/pzhaonet/postr](https://github.com/pzhaonet/postr). And, a collection of templates to make posters, presentations and publications in R Markdown. [https://github.com/exporl/kuleuven-templates](https://github.com/exporl/kuleuven-templates)
 
+- Create beautiful and semantically meaningful articles with pandoc. Example at https://pandoc-scholar.github.io, how to at https://github.com/pandoc-scholar/pandoc-scholar
+
 ### Data manipulation and visualization in R {#data}
 
 - Data Manipulation Using R (& dplyr). PDF slides available at [https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf](https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf), and [http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) 
