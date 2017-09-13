@@ -18,13 +18,15 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 - UW-Madison Software Carpentry Workshop coveryng best practices of coding. [https://github.com/UW-Madison-ACI/boot-camps](https://github.com/UW-Madison-ACI/boot-camps)
 
-- - Linux basics and R basics manuals and tutorials by [Thomas Girke](http://girke.bioinformatics.ucr.edu/). [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics) and [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual) 
+- Linux basics and R basics manuals and tutorials by [Thomas Girke](http://girke.bioinformatics.ucr.edu/). [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/linux-basics) and [https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual](https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home/R_BioCondManual) 
 
 - "R for Data Science" book by Garrett Grolemund & Hadley Wickham, covers ecosystem of R tools for data analysis and visualization done right. [http://r4ds.had.co.nz/](http://r4ds.had.co.nz/) 
 
 - Biomedical Data Science Workshops by [Stephen Turner](https://github.com/stephenturner/). From R basics through data manipulation with `dplyr`, visualization with `ggplot2`, reproducible research with `knitr`. [http://bioconnector.org/workshops/index.html](http://bioconnector.org/workshops/index.html) 
 
-- - "Technical Foundations of Informatics" by Michael Freeman and Joel Ross. Introduction to R, Rmarkdown, plotly, shiny, git and github. [https://info201-s17.github.io/book/index.html](https://info201-s17.github.io/book/index.html) 
+- "Technical Foundations of Informatics" by Michael Freeman and Joel Ross. Introduction to R, Rmarkdown, plotly, shiny, git and github. [https://info201-s17.github.io/book/index.html](https://info201-s17.github.io/book/index.html) 
+
+- Video: "How not to fool yourself with p-values and other statistic" by Regina Nuzzo, NIH Videocast. [https://videocast.nih.gov/launch.asp?23420](https://videocast.nih.gov/launch.asp?23420)
 
 - "Guide to give talks" by Jeff Leek. [https://github.com/jtleek/talkguide](https://github.com/jtleek/talkguide)
 
