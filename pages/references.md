@@ -172,7 +172,7 @@ title: References, "Reproducible research tools" course, BIOS 692
 
 - "R Graph Catalog", visuals and code examples of graphs made with `ggplot2`. [http://shiny.stat.ubc.ca/r-graph-catalog/](http://shiny.stat.ubc.ca/r-graph-catalog/) 
 
- - R Seminar: Introduction to `ggplot2`, comprehensive introduction, from UCLA. [http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm](http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm) -
+ - R Seminar: Introduction to `ggplot2`, comprehensive introduction, from UCLA. [http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm](http://www.ats.ucla.edu/stat/r/seminars/ggplot2_intro/ggplot2_intro.htm)
 
 
 ### Reproducible presentation and web-publishing {#publishing}
@@ -186,6 +186,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 - Example, "Bookdown: Authoring Books with R Markdown" by Yihui Xie. [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
 
 - Github Pages template for academic personal websites. [https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+
+- "Beautiful Jekyll," Build a beautiful and simple website in minutes. [http://deanattali.com/beautiful-jekyll/](http://deanattali.com/beautiful-jekyll/)
 
 
 ## Version control, sharing and collaboration
