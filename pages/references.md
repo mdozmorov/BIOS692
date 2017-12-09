@@ -159,6 +159,8 @@ title: References, "Reproducible research tools" course, BIOS 692
 - Create Powerpoint presentations from R with the OfficeR package // R-bloggers
 https://www.r-bloggers.com/create-powerpoint-presentations-from-r-with-the-officer-package/amp/
 
+- CV and resume in Markdown, https://github.com/ryanpeek/markdown_cv
+
 ### Data manipulation and visualization in R {#data}
 
 - Data Manipulation Using R (& dplyr). PDF slides available at [https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf](https://ramnarasimhan.files.wordpress.com/2014/10/data-manipulation-using-r_acm2014.pdf), and [http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014](http://www.slideshare.net/Ram-N/data-manipulation-using-r-acm2014) 
